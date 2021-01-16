@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: yan-netty
+
+server:
+  port: 80
